@@ -1,11 +1,11 @@
-### Olá, eu sou Rogério Freitas 👋
+<h3>Olá, eu sou Rogério Freitas 👋</h3>
 
 - ✔️ Eu estou atualmente cursando Analise e Desenvolvimento de Sistemas na UNIP.
 - ✔️ Contato: carneiro.rf20@gmail.com
 - ✔️ Pronome: He/His
 - ✔️ Nível: Somente Estudando
 
-<h1>Tecnologias que Uso / Estudo</h1>
+<h3>Tecnologias que Uso / Estudo</h3>
 <div>
   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
@@ -17,7 +17,7 @@
   <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 </div>
 
-<h1>Setup de Trabalho</h1>
+<h3>Setup de Trabalho</h3>
 <div>
   <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
