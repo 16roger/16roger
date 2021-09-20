@@ -1,8 +1,9 @@
 ### Olá, eu sou Rogério Freitas 👋
 
-- 🌱 I’m currently studing Analysis and Systems development in UNIP.
-- 📫 How to reach me: carneiro.rf20@gmail.com
-- 😄 Pronouns: He/His
+- ✔️ Eu estou atualmente cursando Analise e Desenvolvimento de Sistemas na UNIP.
+- ✔️ Contato: carneiro.rf20@gmail.com
+- ✔️ Pronome: He/His
+- ✔️ Nível: Somente Estudando
 
 <h1>Tecnologias que Uso / Estudo</h1>
 <div>
